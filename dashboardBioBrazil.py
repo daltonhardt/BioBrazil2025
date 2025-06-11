@@ -202,7 +202,7 @@ if arquivo:
         #print('df_filtrado_qtde:\n', df_filtrado_qtde)
 
         with col4:
-            st.metric(label='\# TICKETS:', value=num_tickets)
+            st.metric(label='# TICKETS:', value=num_tickets)
             st.divider()
         with col5:
             st.metric(label='QUANTIDADE PRODUTOS:', value=total_itens)
