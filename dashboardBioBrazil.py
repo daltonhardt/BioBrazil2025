@@ -1,8 +1,8 @@
-#######################################
-#   HERBIA BIOBRAZIL 2024 DASHBOARD   #
-#   Author: Dalton Hardt              #
-#   Date:  JUNHO/2025                 #
-#######################################
+#####################################
+#   HERBIA BIOBRAZIL DASHBOARD      #
+#   Author: Dalton Hardt            #
+#   Date:  JUNHO/2025               #
+#####################################
 from datetime import datetime
 from pathlib import Path
 import streamlit as st
