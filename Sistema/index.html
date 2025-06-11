@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feira 2025</title>
+    <link rel="stylesheet" href="src/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+
+<body>
+    <div class="navbar">
+        <a href="index.html">
+            <img width="200" src="./Images/Logo-Herbia.png"></img>
+        </a>
+    </div>
+    <div class="tipoDeVenda">
+        <h2>Tipo de venda:</h2>
+        <br>
+    </div>
+
+    <div id="entrada" class="entrada">
+        <a href="loja.html">
+        <div class="tipoDeVenda">
+<!--            onclick-->
+            <button class="consumidorFinal" onclick="tipoVenda('0', 0)"><img src="./src/icone-consumidor.png"><br>Consumidor Final</button>
+            <button class="especialista" onclick="tipoVenda('1', 0)"><img src="./src/icone-especialista.png"><br>Especialista</button>
+            <button class="lojista" onclick="tipoVenda('2', 0)"><img src="./src/icone-loja.png"><br>Lojista</button>
+            <button class="aquarela" onclick="tipoVenda('3', 0)"><img src="./src/icone-aquarela.png"><br>Aquarela</button>
+            <button class="marketplace" onclick="tipoVenda('4', 0)"><img src="./src/icone-marketplace.png"><br>Marketplace</button>
+            <button class="brinde" onclick="tipoVenda('5', 0)"><img src="./src/icone-brinde.png"><br>Brinde</button>
+        </div>
+        </a>
+    </div>
+
+</body>
+
+<script>
+    let vendaEscolhida = document.querySelector(".entrada");
+    function tipoVenda(indice, descontoPix) {
+        localStorage.setItem("tipoVenda", indice);
+        localStorage.setItem("formaPgto", "Cartao");
+        localStorage.setItem("descontoPix", descontoPix);
+    };
+</script>
+
+</html>

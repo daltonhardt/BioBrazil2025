@@ -1,0 +1,62 @@
+CODIGO;IMAGEM;PRODUTO;VALOR;DESCONTO;QTDE
+P01;./Images/Desodorante/Des-Cristal-100g.jpg;Des Cristal 100g;[70, 43.20, 36, 39.60, 32.60, 0];0;216
+P02;./Images/Desodorante/Des-Cristal-35g.jpg;Des Cristal 35g;[50, 31.20, 26, 28.60, 23.29, 0];0;288
+P03;./Images/Desodorante/Des-Cristal-60g.jpg;Des Cristal 60g;[60, 36, 30, 33, 24.78, 0];0;288
+P04;./Images/Desodorante/Des-Kit100g-ECO.jpg;Des Kit100g ECO;[80, 50.40, 42, 46.20, 42, 0];0;148
+P05;./Images/Desodorante/Des-Kit100g.jpg;Des Kit100g;[80, 50.40, 42, 46.20, 42, 0];0;240
+P06;./Images/Desodorante/Des-Kit35g-ECO.jpg;Des Kit35g ECO;[60, 38.40, 32, 35.20, 30.27, 0];0;400
+P07;./Images/Desodorante/Des-Kit60g-ECO.jpg;Des Kit60g ECO;[70, 43.20, 36, 39.60, 31.75, 0];0;247
+P08;./Images/Desodorante/Des-Kit60g.jpg;Des Kit60g;[70, 43.20, 36, 39.60, 36, 0];0;240
+P09;./Images/Desodorante/Des-Lavanda.jpg;Des Lavanda;[30, 18.72, 15.60, 17.16, 15.60, 0];0;180
+P10;./Images/Desodorante/Des-Refrescante.jpg;Des Refrescante;[30, 18.72, 15.60, 17.16, 15.60, 0];0;240
+P11;./Images/Desodorante/Des-Rosa-Mosq-Creme.jpg;Des Rosa Mosq Creme;[40, 26.88, 22.40, 24.64, 22.40, 0];0;70
+P12;./Images/Desodorante/Des-Rosa-Mosq-Rollon.jpg;Des Rosa Mosq Rollon;[30, 18.72, 15.60, 17.16, 15.60, 0];0;300
+P13;./Images/Desodorante/Des-Rosa-Mosq-Spray.jpg;Des Rosa Mosq Spray;[40, 23.52, 19.60, 21.56, 19.60, 0];0;200
+P14;./Images/Desodorante/Des-Sem-Perfume.jpg;Des Sem Perfume;[30, 18.72, 15.60, 17.16, 15.60, 0];0;90
+P15;./Images/Desodorante/Spray-Desodorante.jpg;Spray Desodorante;[20, 14.40, 12, 13.20, 12, 0];0;276
+P16;./Images/Perfume/Body-Splash-Trau.jpg;Body Splash Trau;[80, 47.52, 39.60, 43.56, 39.60];0;250
+P17;./Images/Perfume/Perfume-Trau-10ml.jpg;Perfume Trau 10ml;[60, 37.92, 31.60, 34.76, 31.60];0;250
+P18;./Images/Perfume/Perfume-Trau.jpg;Perfume Trau;[240, 143.52, 119.60, 131.56, 119.60];0;60
+P19;./Images/Facial/Creme-olhos.jpg;Creme olhos;[120, 71.52, 59.60, 65.56, 59.60, 0];0;100
+P20;./Images/Facial/Espuma.jpg;Espuma;[60, 37.92, 31.60, 34.76, 31.60, 0];0;150
+P21;./Images/Facial/Gel-Creme.jpg;Gel Creme;[60, 37.92, 31.60, 34.76, 31.60, 0];0;118
+P22;./Images/Facial/Lip-Balm.jpg;Lip Balm;[45, 28.32, 23.60, 25.96, 23.60, 0];0;200
+P23;./Images/Facial/Mascara-facial.jpg;Mascara facial;[80, 47.52, 39.60, 43.56, 39.60, 0];0;105
+P24;./Images/Facial/Prot-Solar-Mista-Seca.jpg;Prot Solar Mista Seca;[100, 66.72, 55.60, 61.16, 55.60, 0];0;120
+P25;./Images/Facial/Prot-Solar-Oleosa.jpg;Prot Solar Oleosa;[100, 66.72, 55.60, 61.16, 55.60, 0];0;120
+P26;./Images/Facial/Sab-Dolomita.jpg;Sab Dolomita;[30, 20.16, 16.80, 18.48, 16.80, 0];0;188
+P27;./Images/Facial/Serum.jpg;Serum;[135, 81.12, 67.60, 74.36, 67.60, 0];0;200
+P28;./Images/Facial/Tonico.jpg;Tonico;[45, 28.32, 23.60, 25.96, 23.60, 0];0;144
+P29;./Images/Aromaterapia/Hid.-Melaleuca.jpg;Hid. Melaleuca;[35, 22.08, 18.40, 20.24, 18.40, 0];0;20
+P30;./Images/Aromaterapia/Hid.-Patchouli.jpg;Hid. Patchouli;[35, 22.08, 18.40, 20.24, 18.40, 0];0;20
+P31;./Images/Aromaterapia/OE-Alecrim.jpg;OE Alecrim;[40, 23.52, 19.60, 21.56, 19.60, 0];0;42
+P32;./Images/Aromaterapia/OE-Citronela-org.jpg;OE Citronela org;[30, 18.24, 15.20, 16.72, 15.20, 0];0;20
+P33;./Images/Aromaterapia/OE-Cravo-Botao.jpg;OE Cravo Botao;[55, 33.12, 27.60, 30.36, 27.60, 0];0;10
+P34;./Images/Aromaterapia/OE-Erva-Baleeira.jpg;OE Erva Baleeira;[80, 47.52, 39.60, 43.56, 39.60, 0];0;15
+P35;./Images/Aromaterapia/OE-Eucalipto-org.jpg;OE Eucalipto org;[30, 18.72, 15.60, 17.16, 15.60, 0];0;30
+P36;./Images/Aromaterapia/OE-Hortela-Pimenta.jpg;OE Hortela Pimenta;[45, 27.36, 22.80, 25.08, 22.80, 0];0;50
+P37;./Images/Aromaterapia/OE-Laranja-Doce.jpg;OE Laranja Doce;[25, 15.36, 12.80, 14.08, 12.80, 0];0;40
+P38;./Images/Aromaterapia/OE-Lavanda.jpg;OE Lavanda;[55, 33.12, 27.60, 30.36, 27.60, 0];0;40
+P39;./Images/Aromaterapia/OE-Lavandin.jpg;OE Lavandin;[40, 23.52, 19.60, 21.56, 19.60, 0];0;15
+P40;./Images/Aromaterapia/OE-Lemongrass.jpg;OE Lemongrass;[35, 21.12, 17.60, 19.36, 17.60, 0];0;25
+P41;./Images/Aromaterapia/OE-Melaleuca-Org.jpg;OE Melaleuca Org;[60, 38.40, 32, 35.20, 32, 0];0;20
+P42;./Images/Aromaterapia/OE-Melaleuca.jpg;OE Melaleuca;[40, 24, 20, 22, 20, 0];0;40
+P43;./Images/Aromaterapia/OE-Palmarosa.jpg;OE Palmarosa;[55, 34.56, 28.80, 31.68, 28.80, 0];0;10
+P44;./Images/Aromaterapia/OE-Patchouli.jpg;OE Patchouli;[55, 34.56, 28.80, 31.68, 28.80, 0];0;15
+P45;./Images/Aromaterapia/OE-Sangue-dragao.jpg;OE Sangue dragao;[45, 28.32, 23.60, 25.96, 23.60, 0];0;50
+P46;./Images/Aromaterapia/OE-Ylang-ylang.jpg;OE Ylang ylang;[50, 29.76, 24.80, 27.28, 24.80, 0];0;40
+P47;./Images/Aromaterapia/OV-Amendoa-Doce.jpg;OV Amendoa Doce;[30, 19.20, 16, 17.60, 16, 0];0;20
+P48;./Images/Aromaterapia/OV-Copaiba.jpg;OV Copaiba;[60, 36, 30, 33, 30, 0];0;20
+P49;./Images/Aromaterapia/OV-Rosa-Mosqueta.jpg;OV Rosa Mosqueta;[40, 23.52, 19.60, 21.56, 19.60, 0];0;84
+P50;./Images/Aromaterapia/OV-Semente-Uva.jpg;OV Semente Uva;[30, 19.20, 16, 17.60, 16, 0];0;20
+P51;./Images/Barras/Cond-2em1.jpg;Cond 2em1;[40, 26.40, 22, 24.20, 22, 0];0;192
+P52;./Images/Barras/Cond-Suave.jpg;Cond Suave;[40, 26.40, 22, 24.20, 22, 0];0;108
+P53;./Images/Barras/Leave-in.jpg;Leave in;[45, 27.84, 23.20, 25.52, 23.20, 0];0;96
+P54;./Images/Barras/Mascara-capilar.jpg;Mascara capilar;[45, 27.84, 23.20, 25.52, 23.20, 0];0;80
+P55;./Images/Barras/Sab-7-Ervas.jpg;Sab 7 Ervas;[25, 16.80, 14, 15.40, 14, 0];0;264
+P56;./Images/Barras/Sab-Mulher.jpg;Sab Mulher;[30, 18.24, 15.20, 16.72, 15.20, 0];0;444
+P57;./Images/Barras/Shamp-Cacheados.jpg;Shamp Cacheados;[40, 26.40, 22, 24.20, 22, 0];0;150
+P58;./Images/Barras/Shamp-Mistos-Oleosos.jpg;Shamp Mistos Oleosos;[40, 26.40, 22, 24.20, 22, 0];0;150
+P59;./Images/Barras/Shamp-Secos-Res-Dan.jpg;Shamp Secos Res Dan;[40, 26.40, 22, 24.20, 22, 0];0;150
+P60;./Images/Relive/Porta-barras.jpg;Porta barras;[19, 19, 19, 19, 19, 0];0;20
+P61;./Images/Relive/Saboneteira.jpg;Saboneteira;[37, 37, 37, 37, 37, 0];0;8
