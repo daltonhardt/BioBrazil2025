@@ -4,11 +4,9 @@
 #   Date:  JUNHO/2025              #
 ####################################
 from datetime import datetime
-from pathlib import Path
 import streamlit as st
 import plotly.express as px
 import pandas as pd
-import os
 import warnings
 import locale
 
@@ -61,10 +59,10 @@ st.markdown('<style>div.block-container{padding-top:2rem;}</style>', unsafe_allo
 arquivo = st.sidebar.file_uploader('Escolha o arquivo (.csv)', type='csv')
 
 if arquivo:
-    filename = arquivo.name
+    # filename = arquivo.name
     # print('filename:', filename)
     #st.write(filename, encoding='utf-8')
-    df = pd.read_csv(filename, date_format='%d/%m/%Y', encoding='utf-8')
+    df = pd.read_csv(arquivo, date_format='%d/%m/%Y', encoding='utf-8')
 
     if not df.empty:
         df = df.drop('HORA', axis=1)
